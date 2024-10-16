@@ -2,8 +2,8 @@
 - 👀 I’m interested in being creative
 - 💻 Full Stack MEAN & MERN Web developer by day
 - 🌱 I’m currently learning UI/UX design and development
-- 💞️ I’m looking to collaborate on design based projects
 - 📫 How to reach me isaac.leshaba@gmail.com
+- Check out my portfolio [https://www.iktleshaba.netlify.app](https://iktleshaba.netlify.app)
 
 <!---
 isaacLeshaba/isaacLeshaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
