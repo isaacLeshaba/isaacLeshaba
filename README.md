@@ -3,7 +3,7 @@
 - 💻 Full Stack MEAN & MERN Web developer by day
 - 🌱 I’m currently learning UI/UX design and development
 - 📫 How to reach me isaac.leshaba@gmail.com
-- Check out my portfolio [https://www.iktleshaba.netlify.app](https://iktleshaba.netlify.app)
+- Check out my portfolio [iktleshaba.netlify.app](https://iktleshaba.netlify.app)
 
 <!---
 isaacLeshaba/isaacLeshaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
